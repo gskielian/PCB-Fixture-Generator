@@ -20,6 +20,8 @@ openscad -o thing.stl -D "length=32;width=32;height=5;cx1=3;cy1=3;cx2=32;cy2=32"
 
 See thing.stl for an example of output (can use github's stl viewer online)
 
+![Alt text](./thing.png?raw=true "Title")
+
 ## TODO
 
 Things to add:
