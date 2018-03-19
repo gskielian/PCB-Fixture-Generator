@@ -10,6 +10,8 @@ just enter the dimensions of the pcb and location of the cutouts for brass inser
 openscad -o thing.stl -D "length=32;width=32;height=5;cx1=3;cy1=3;cx2=32;cy2=32" pcb_generator.scad 
 ```
 
+See thing.stl for an example of output (can use github's stl viewer online)
+
 ## TODO
 
 Things to add:
